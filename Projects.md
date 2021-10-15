@@ -1,4 +1,4 @@
 [Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackothons](Hackothons.md)  [Courses](Courses.md)
 # Projects
 
-![nilm5.png](README.md) 
+![Non-Intrusive Real-Time Power Monitor](nilm5.png) 
