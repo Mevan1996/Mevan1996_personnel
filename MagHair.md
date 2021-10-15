@@ -5,4 +5,4 @@ This is a wearable system to create unique tactile feedback by stimulating only 
  
  [Project Video Link](https://www.youtube.com/watch?v=y69RHEvX8gA)
  
- [GitHub Repository](www.github.com/Mevan1996/MagHairExperiment)
+ [GitHub Repository](https://github.com/Mevan1996/MagHairExperiment)
