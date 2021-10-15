@@ -1,4 +1,4 @@
-[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackathons](Hackothons.md)  [Courses](Courses.md)
+[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Achievements](Achievements.md) [Courses](Courses.md)
 # Hackathons
 
 - IEEExtreme programming competition - 2020 - world rank - **52**, country rank - **1**
