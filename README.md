@@ -9,5 +9,19 @@ I obtained my bachelors degree from the Department of Electonic and Telecommunic
 
 I was a visiting student in Augmented Human Lab, University of Auckaland, New Zealand, where I wroked under the supervision of Prof. Suranga Nanayakkara. There, I contributed to two resarch projects mainly based on machine learning and electromagnetism. 
 
+### Profiles
+
+[LinkedIn](https://www.linkedin.com/in/mevan96/)
+
+[CodeChef](https://www.codechef.com/users/mevan123)
+
+[Codeforces](https://codeforces.com/profile/Mevan_Niluminda)
+
+[Project Euler](https://projecteuler.net/progress=Mevan_Niluminda)
+
+[HakcerEarth](https://www.hackerearth.com/@Mevan_Niluminda)
+
+[Google Competetions](https://codingcompetitions.withgoogle.com/profile)
+
 
 
