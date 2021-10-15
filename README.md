@@ -21,7 +21,7 @@ I was a visiting student in Augmented Human Lab, University of Auckaland, New Ze
 
 [HakcerEarth](https://www.hackerearth.com/@Mevan_Niluminda)
 
-[Google Competetions](https://codingcompetitions.withgoogle.com/profile)
+[Google Competitions](https://codingcompetitions.withgoogle.com/profile)
 
 
 
