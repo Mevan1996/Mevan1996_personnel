@@ -7,34 +7,16 @@ I have a strong affinity towards mathematics and I am highly inspired by its app
 I obtained my bachelors degree from the Department of Electonic and Telecommunications Engineering, University of Moratuwa, Sri Lanka, where I ranked 5th among 117 students. I completed my research project titled "Physical Layer Security for Intelligent Reflecting Surface Assisted Two–Way Communications" under the supervision of Dr. Tharaka Samarasinghe, Dr. Kasun Hemachandra, Dr. Saman Atapattu and Prof. Jamie Evans. My final year project was based on using machine learning for Non-intrusive Load Monitoring to reuduce the houselhold electricity wastage. 
 
 I was a visiting student in Augmented Human Lab, University of Auckaland, New Zealand, where I wroked under the supervision of Prof. Suranga Nanayakkara. There, I contributed to two resarch projects mainly based on machine learning and electromagnetism. 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- **M. Wijewardena**, T. Samarasinghe, K. T. Hemachandra, S. Atapattu and J. S. Evans, **“[Physical Layer Security for Intelligent Reflecting Surface Assisted Two–Way Communications](https://doi.org/10.1109/LCOMM.2021.3068102),”** in IEEE Communications Letters, vol.  25, no.  7, pp.  2156-2160, July 2021.
+- R. Boldu, **M. Wijewardena**, H. Zhang, and S. Nanayakkara, **“[MAGHair: A Wearable System toCreate Unique Tactile Feedback by Stimulating Only the Body Hair](https://doi.org/10.1145/3379503.3403545),”** in 22nd International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI ’20), Oct.2020.
+- **M. Wijewardena**, S. Pathiranage, T. Nanyakkara, I. Rajapakshe, S. Charles and T. Samarasinghe, **“Sequence-to-short Sequence Learning with Attention Based Autoencoders for Non-IntrusiveLoad Monitoring”** in progress.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mevan1996/Mevan1996.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
