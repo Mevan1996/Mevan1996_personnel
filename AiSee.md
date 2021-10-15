@@ -1,4 +1,4 @@
-[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackothons](Hackothons.md)  [Courses](Courses.md)
+[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackathons](Hackothons.md)  [Courses](Courses.md)
 # AiSee
 
 This is a system to help visually impaired people in their day to day activities specially in shopping. This system can act as a virtual companion of visually impaired person specially during day to day activities such as shopping.
