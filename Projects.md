@@ -3,4 +3,6 @@
 
 [![Non-Intrusive Real-Time Power Monitor](nilm5.png)](NILM.html) [![MagHair](maghair.PNG)](MagHair.html)
 
-[![AiSee](aisee.PNG)](AiSee.html)
+[AiSee](AiSee.md)
+
+[Automated Shade Net](ShadeNet.md)
