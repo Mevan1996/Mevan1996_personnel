@@ -1,4 +1,4 @@
-[Awards](Achievements.md) [Hackothons](Hackothons.md)
+[Intro](README.md) [Publications](Publications.md) [Projects](Projects.md) [Awards](Achievements.md) [Hackothons](Hackothons.md) [Courses](Courses.md) 
 ## Mevan Niluminda Wijewadena
 
 My name is Mevan Niluminda Wijewardena. Currently I am working as Junior Lecturer in the Department of Electonic and Telecommunications Engineering, University of Moratuwa, Sri Lanka. 
