@@ -1,4 +1,4 @@
-[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackothons](Hackathons.md)  [Courses](Courses.md)
+[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackathons](Hackothons.md)  [Courses](Courses.md)
 # Publications
 
 
