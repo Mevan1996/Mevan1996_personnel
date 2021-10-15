@@ -1,3 +1,4 @@
+[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackothons](Hackothons.md)  [Courses](Courses.md)
 # Awards
 
 - International Mathematical Olympiad (IMO) - **bronze medals** - 2012, 2013, 2014, 2016 
