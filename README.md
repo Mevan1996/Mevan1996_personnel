@@ -1,9 +1,6 @@
 ## Mevan Niluminda Wijewadena
 
-You can use the [editor on GitHub](https://github.com/Mevan1996/Mevan1996.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+My name is Mevan Niluminda Wijewardena.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
