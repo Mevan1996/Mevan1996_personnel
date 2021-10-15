@@ -1,4 +1,4 @@
-[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackathons](Hackothons.md)  [Courses](Courses.md)
+[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Achievements](Achievements.md)  [Courses](Courses.md)
 # Projects
 
 [![Non-Intrusive Real-Time Power Monitor](nilm5.png)](NILM.html) [![MagHair](maghair.PNG)](MagHair.html)
