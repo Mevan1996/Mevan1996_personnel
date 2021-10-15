@@ -9,6 +9,8 @@ I obtained my bachelors degree from the Department of Electonic and Telecommunic
 
 I was a visiting student in Augmented Human Lab, University of Auckaland, New Zealand, where I wroked under the supervision of Prof. Suranga Nanayakkara. There, I contributed to two resarch projects mainly based on machine learning and electromagnetism. 
 
+[CV](CV_Mevan_WIjewardena.pdf)
+
 ### Profiles
 
 [LinkedIn](https://www.linkedin.com/in/mevan96/)
