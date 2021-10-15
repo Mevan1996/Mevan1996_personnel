@@ -1,11 +1,11 @@
 [Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Achievements](Achievements.md)  [Courses](Courses.md)
 # Awards 
 
-- International Mathematical Olympiad 2016 - **bronze medal**
-- International Mathematical Olympiad 2014 - **bronze medal**
-- International Mathematical Olympiad 2013 - **bronze medal** 
-- International Mathematical Olympiad 2012 - **bronze medal**
-- International Mathematical Olympiad 2011 - **participation** 
+- [International Mathematical Olympiad 2016](http://www.imo-official.org/participant_r.aspx?id=20851) - **bronze medal**
+- [International Mathematical Olympiad 2014](http://www.imo-official.org/participant_r.aspx?id=20851) - **bronze medal**
+- [International Mathematical Olympiad 2013](http://www.imo-official.org/participant_r.aspx?id=20851) - **bronze medal** 
+- [International Mathematical Olympiad 2012](http://www.imo-official.org/participant_r.aspx?id=20851) - **bronze medal**
+- [International Mathematical Olympiad 2011](http://www.imo-official.org/participant_r.aspx?id=20851) - **participation** 
 - International Mathematics Competition for University Students 2018 - **bronze medal** 
 - International Mathematics Competition (IMC) 2013 **bronze medals** 
 - International Mathematics Competition (IMC) 2012 **bronze medals** 
