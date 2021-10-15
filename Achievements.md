@@ -6,11 +6,11 @@
 - [International Mathematical Olympiad 2013](http://www.imo-official.org/participant_r.aspx?id=20851) - **bronze medal** 
 - [International Mathematical Olympiad 2012](http://www.imo-official.org/participant_r.aspx?id=20851) - **bronze medal**
 - [International Mathematical Olympiad 2011](http://www.imo-official.org/participant_r.aspx?id=20851) - **participation** 
-- International Mathematics Competition for University Students 2018 - **bronze medal** 
-- International Mathematics Competition (IMC) 2013 **bronze medals** 
-- International Mathematics Competition (IMC) 2012 **bronze medals** 
+- [International Mathematics Competition for University Students 2018](https://www.imc-math.org.uk/?year=2018&item=results) - **bronze medal** 
+- [International Mathematics Competition (IMC) 2013](https://chiuchang.org/imc/en/category/bimc-2013-en/) **bronze medals** 
+- [International Mathematics Competition (IMC) 2012](https://chiuchang.org/imc/en/category/taimc-2012-en/) **bronze medals** 
 - International Mathematics Competition (IMC) 2010 **participation** 
-- Asia Pacific Mathematical Olympiad (APMO) 2016 - **silver medal** 
+- [Asia Pacific Mathematical Olympiad (APMO) 2016](https://www.apmo-official.org/country_report/LKA/2016) - **silver medal** 
 - Asia Pacific Mathematical Olympiad (APMO) 2015 - **bronze medal**
 - Asia Pacific Mathematical Olympiad (APMO) 2014 - **bronze medal**
 - Asian Physics Olympiad 2016 - **participation**
