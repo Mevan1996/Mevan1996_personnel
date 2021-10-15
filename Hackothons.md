@@ -1,5 +1,5 @@
-[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackothons](Hackothons.md)  [Courses](Courses.md)
-# Hackothons
+[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackathons](Hackothons.md)  [Courses](Courses.md)
+# Hackathons
 
 - IEEExtreme programming competition - 2020 - world rank - **52**, country rank - **1**
 - Google code jam - 2020 - Qualified for round 2, world rank - **2839**, country rank - **2**
