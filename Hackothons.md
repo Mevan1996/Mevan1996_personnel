@@ -1,4 +1,4 @@
-#Hackothons
+# Hackothons
 
 - IEEExtreme programming competition - 2020 - world rank - **52**, country rank - **1**
 - Google code jam - 2020 - Qualified for round 2, world rank - **2839**, country rank - **2**
