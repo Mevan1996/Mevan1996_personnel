@@ -1,4 +1,4 @@
-[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Courses](Courses.md)
+[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Achievements](Achievements.md)  [Courses](Courses.md)
 # Awards 
 
 - International Mathematical Olympiad 2016 - **bronze medal**
