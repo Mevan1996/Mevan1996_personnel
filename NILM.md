@@ -1,3 +1,4 @@
+[Intro](README.md)  [Publications](Publications.md)  [Projects](Projects.md)  [Awards](Achievements.md)  [Hackothons](Hackothons.md)  [Courses](Courses.md)
 # Not-Intrusive Real-Time Power Monitor
 
 This is a smart energy meter capable of inferring the appliance level power consumption given the aggregate power consumption for a household setup in real time.
