@@ -1,6 +1,6 @@
 ## Mevan Niluminda Wijewadena
 
-My name is Mevan Niluminda Wijewardena. I obtained my bachelors degree from the Department of Electonic and Telecommunications  engineering in university of Moratuwa in Sri Lanka.
+My name is Mevan Niluminda Wijewardena. I obtained my bachelors degree from the Department of Electonic and Telecommunications Engineering, University of Moratuwa, Sri Lanka. Currently I am working as Junior Lecturer in the same department. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
